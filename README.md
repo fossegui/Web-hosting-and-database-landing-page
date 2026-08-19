@@ -50,7 +50,7 @@ Built from scratch using the following core technologies:
 
 ## 📂 Project Structure
 
-
+```
 ├── css/
 │   └── style.css       # Main stylesheet
 ├── img/
@@ -58,7 +58,7 @@ Built from scratch using the following core technologies:
 │   └── mainbanner.png  # Hero background image
 ├── index.html          # Main HTML document
 └── README.md           # Project documentation
-
+```
 ---
 
 ## 🔍 HTML Code Overview
