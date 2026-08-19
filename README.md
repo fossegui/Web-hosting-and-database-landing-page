@@ -1,5 +1,7 @@
 # 🚀 Bank Box - Hosting and Database Landing Page
 
+Site: https://web-hosting-and-database-landing-pa-nine.vercel.app/
+
 > **Bank Box** is a modern, responsive, and high-performance landing page developed to showcase database storage services, web hosting,
 > and domain search solutions.
 
@@ -48,7 +50,7 @@ Built from scratch using the following core technologies:
 
 ## 📂 Project Structure
 
-```text
+
 ├── css/
 │   └── style.css       # Main stylesheet
 ├── img/
