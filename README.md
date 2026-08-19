@@ -78,11 +78,16 @@ o	.contact-container: Direct contact form.
 
 Technical highlights from style.css:
 
-•	Flexbox (display: flex): Used extensively to arrange feature cards and pricing columns evenly. ..
-•	Relative/Absolute Positioning: Utilized for circular badge overlaps on pricing tags (.price). ..
-•	Media Queries (@media): Ensures smooth responsiveness:..
-o	Up to 1100px: Adjusts container widths and side margins for pricing cards. ..
-o	Up to 900px: Optimizes padding and text scaling for tablet screens. ..
+•	Flexbox (display: flex): Used extensively to arrange feature cards and pricing columns evenly. 
+
+•	Relative/Absolute Positioning: Utilized for circular badge overlaps on pricing tags (.price). 
+
+•	Media Queries (@media): Ensures smooth responsiveness:
+
+o	Up to 1100px: Adjusts container widths and side margins for pricing cards. 
+
+o	Up to 900px: Optimizes padding and text scaling for tablet screens. 
+
 o	Up to 576px: Switches multi-column flex layouts to single-column (flex-direction: column) for mobile usability.
 
 ---
