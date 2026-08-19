@@ -85,8 +85,6 @@ o	Up to 1100px: Adjusts container widths and side margins for pricing cards.
 o	Up to 900px: Optimizes padding and text scaling for tablet screens.
 o	Up to 576px: Switches multi-column flex layouts to single-column (flex-direction: column) for mobile usability.
 
- Responsive BreakpointsThe stylesheet (style.css) implements media queries for high device compatibility:BreakpointTarget DevicesKey Style Adjustmentsmax-width: 1100pxSmall Laptops / Small DisplaysContainer width expands to 95% for tighter margins.max-width: 900pxTabletsBanner font padding adjusts; Domain search container padding decreases.max-width: 576pxSmartphonesNavbar shrinks; Services & Plans stack vertically (flex-direction: column); Inputs adjust to 100% width.
-
 ---
 
 ## 🚀 How to Run the Project
