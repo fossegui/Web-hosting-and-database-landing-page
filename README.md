@@ -57,7 +57,9 @@ Built from scratch using the following core technologies:
 ├── index.html          # Main HTML document
 └── README.md           # Project documentation
 
-🔍 HTML Code Overview
+---
+
+## 🔍 HTML Code Overview
 
 The index.html file follows clean semantic guidelines for better accessibility and SEO:
 1.	<nav> / .navbar-container: Contains the logo and primary navigation links.
@@ -69,8 +71,9 @@ o	.searchdomain-container: Quick domain lookup bar.
 o	.contact-container: Direct contact form.
 3.	<footer>: Copyright notice and author credits.
 
+---
 
-🎨 CSS Concepts & Styling
+## 🎨 CSS Concepts & Styling
 
 Technical highlights from style.css:
 
@@ -80,7 +83,10 @@ Technical highlights from style.css:
 o	Up to 1100px: Adjusts container widths and side margins for pricing cards.
 o	Up to 900px: Optimizes padding and text scaling for tablet screens.
 o	Up to 576px: Switches multi-column flex layouts to single-column (flex-direction: column) for mobile usability.
-🚀 How to Run the Project
+
+---
+
+## 🚀 How to Run the Project
 
 1.	Clone this repository:
 Bash
@@ -93,14 +99,13 @@ cd bank-box
 3.	Open in browser:
 o	Double-click index.html or use the Live Server extension in VS Code.
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 
 Developed by Guilherme Pereira de Jesus.
 
 •	🏢 GitHub: @fossegui
 © 2026 Guilherme Pereira de Jesus - All rights reserved.
 
----
 
-### 💡 Lembrete final:
-Não se esqueça de ajustar os links do GitHub (`your-username`) e LinkedIn (`your-profile`) para os seus perfis reais.
